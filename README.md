@@ -1,6 +1,6 @@
 # Weather Prediction Regression Project
 
-This is a project started as part of the course and continued by me and was created to consolidate knowledge. the project is not finished yet and will be developed.
+This is a project started as part of the Data Science course and continued by me and was created to consolidate knowledge. the project is not finished yet and will be developed.
 
 # About project
 
