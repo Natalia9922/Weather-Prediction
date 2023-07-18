@@ -4,7 +4,7 @@ This is a project started as part of the Data Science course and continued by me
 
 # About project
 
-This project goals to predict the weather using regression algorithms. The dataset used for this project is sourced from Kaggle, specifically from the "Szeged Weather" dataset by budincsevity. The dataset contains historical weather information for the city of Szeged, Hungary.
+This project goals to predict the weather variables using regression algorithms. The dataset used for this project is sourced from Kaggle, specifically from the "Szeged Weather" dataset by budincsevity. The dataset contains historical weather information for the city of Szeged, Hungary.
 
 The project utilizes machine learning algorithms to build a regression model that can accurately predict weather variables such as temperature, humidity, precipitation, wind speed, and more. The dataset consists of various features like temperature, humidity, wind speed, wind bearing, visibility, summary, and precipitation. These features will be used to train and test the regression models.
 
